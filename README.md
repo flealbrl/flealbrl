@@ -1,6 +1,6 @@
 ## 🤖 - Leal Code />
- ✈️ - Atualmente Trabalho na Aviação Civil
- 🌱 - Full Stack com Back em JS
+✈️ - Atualmente Trabalho na Aviação Civil
+🌱 - Full Stack com Back em JS
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flealbrl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
