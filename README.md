@@ -1,5 +1,5 @@
 ## 🤖 - Leal Code />
-✈️ - Atualmente Trabalho na Aviação Civil
+✈️ - Atualmente Trabalho na Aviação Civil /
 🌱 - Full Stack com Back em JS
  <div>
   <a href="https://github.com/rafaballerini">
