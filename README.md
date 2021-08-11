@@ -1,6 +1,7 @@
-- 🔭 Hoje trabalho com aviação civil.
-- 🌱 Estudando Full Stack com Back em JS
+## Leal Code />
 
+## - 🔭 Hoje trabalho com aviação civil
+## - 🌱 Estudando Full Stack com Back em JS
 <div>
   <a href="https://github.com/flealbrl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flealbrl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
